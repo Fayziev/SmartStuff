@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="horizontalCount" format="integer"/>
+        <attr name="verticalCount" format="integer"/>
+        <attr name="selectedColor" format="color|reference"/>
+        <attr name="unSelectedColor" format="color|reference"/>
+        <attr name="paintColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
